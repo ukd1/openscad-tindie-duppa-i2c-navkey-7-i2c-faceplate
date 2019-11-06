@@ -1,3 +1,5 @@
+// change this depending on how accurate your printer is
+// and or how much shrinkage you get
 scaling = 1.067;
 
 difference(){
